@@ -39,3 +39,18 @@
 - LSP 显示依赖未安装警告（正常，依赖未装）
 - 亚马逊反爬机制可能导致爬取失败
 - 图片下载可能有防盗链问题
+
+## 2025-03-16 GitHub 仓库创建
+
+### 完成内容
+
+1. **GitHub 仓库创建**
+   - 安装 GitHub CLI (gh)
+   - 完成 GitHub 设备登录
+   - 创建公开仓库 `amazon-product-comparator`
+   - 推送所有代码到远程
+
+### 仓库信息
+
+- **URL:** https://github.com/vivo60/amazon-product-comparator
+- **描述:** 亚马逊产品对比工具 - 自动爬取亚马逊类目产品，对比图片相似度，生成对比报告
